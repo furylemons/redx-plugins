@@ -8,7 +8,7 @@
       "description": "Steam Workshop wallpaper downloader for Wallpaper Engine. Browse, preview and install items into projects/myprojects.",
       "author": "RedX",
       "url": "https://github.com/furylemons/redx-plugins/releases/download/wallpaper-downloader-1.0.0/wallpaper-downloader-1.0.0.rxplugin",
-      "sha256": "ccc31312c81a91392b92f0b68cab2ae4df89200d8fcf141d1551973acfd9bd67",
+      "sha256": "d746830f506e7de5cd897e302c45abed11a6d62e9edf2ea1af4ae96f3868f013",
       "icon": "https://raw.githubusercontent.com/furylemons/redx-plugins/main/icons/wallpaper-downloader.png",
       "requiresDotnet": true
     }
