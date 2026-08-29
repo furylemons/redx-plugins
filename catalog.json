@@ -8,7 +8,7 @@
       "description": "Wallpaper Engine için Steam Workshop duvar kağıdı indirici. Öğeleri inceleyin, önizleyin ve projelerinize/projelerim klasörüne yükleyin.",
       "author": "RedX",
       "url": "https://github.com/furylemons/redx-plugins/releases/download/wallpaper-downloader-1.0.0/wallpaper-downloader-1.0.0.rxplugin",
-      "sha256": "0cb0ea085bd2d4d349fccdfebe5aad66f069bb270c07b9dec256a1a358662fe9",
+      "sha256": "226228d17c8a591d0657e463c3dd4998576a30776465a5d5faf3c48c799274d6",
       "icon": "https://raw.githubusercontent.com/furylemons/redx-plugins/main/icons/wallpaper-downloader.png",
       "requiresDotnet": true
     }
