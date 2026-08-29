@@ -9,7 +9,7 @@
       "author": "RedX",
       "url": "https://github.com/furylemons/redx-plugins/releases/download/wallpaper-downloader-1.0.0/wallpaper-downloader-1.0.0.rxplugin",
       "sha256": "ccc31312c81a91392b92f0b68cab2ae4df89200d8fcf141d1551973acfd9bd67",
-      "icon": "https://raw.githubusercontent.com/furylemons/redx-plugins/main/icons/wallpaper-downloader.svg",
+      "icon": "https://raw.githubusercontent.com/furylemons/redx-plugins/main/icons/wallpaper-downloader.png",
       "requiresDotnet": true
     }
   ]
